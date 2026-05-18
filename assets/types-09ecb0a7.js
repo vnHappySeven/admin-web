@@ -1,0 +1,2 @@
+const a={PlanEscort:"plan_escort",PlanShuttle:"plan_shuttle",PlanCharter:"plan_charter",PlanDragonMassage:"plan_dragon_massage",PlanTutor:"plan_tutor"},e={[a.PlanEscort]:"奧黛導遊",[a.PlanShuttle]:"機場接送",[a.PlanCharter]:"包車服務",[a.PlanDragonMassage]:"龍筋按摩",[a.PlanTutor]:"越語家教"},n={Fixed:"fixed",Percentage:"percentage"},t={Fixed:"fixed",Percentage:"percentage"};export{t as C,n as D,e as S,a};
+//# sourceMappingURL=types-09ecb0a7.js.map
