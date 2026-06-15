@@ -1,0 +1,2 @@
+import{M as a,e as l,ac as r,ad as u,ae as c,af as i}from"./index-32290fc2.js";const p=()=>{const e=a();return l(()=>{var o;return((o=r())==null?void 0:o._context)||(e==null?void 0:e.appContext)})},v=()=>{const e=p(),o=[],s=t=>{const n=u(t,e.value);return n&&o.push(n),n};return{init:t=>s(t),notify:s,close:t=>c(t),closeAll:(t=!1)=>i(t?void 0:e.value),closeAllCreatedInThisHook:()=>{o.forEach(t=>c(t))}}};export{v as u};
+//# sourceMappingURL=useToast-dc76e252.js.map
